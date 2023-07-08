@@ -8,4 +8,4 @@ Este repositório tem o intuito de armazenar os arquivos do projeto "Senac Bank"
 
 ### Segue abaixo a documentação do projeto:
 
-[Documentação Senack Bank](https://drive.google.com/file/d/13PYcmBRDzbBFhKf8sW1h_dboVBwi9SQ2/view)
+[Documentação Senack Bank](https://github.com/guiviniciuss/senac-bank/blob/main/projeto_senac_bank.pdf)
